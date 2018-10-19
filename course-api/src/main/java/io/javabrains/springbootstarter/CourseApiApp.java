@@ -11,6 +11,9 @@ public class CourseApiApp {
 
 	}
 	
+	public static void test() {
+		
+	}
 	
 
 }
