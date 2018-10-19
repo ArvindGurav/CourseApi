@@ -12,7 +12,7 @@ public class CourseApiApp {
 	}
 	
 	public static void test() {
-		
+		System.out.print("Hello World");
 	}
 	
 
